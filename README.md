@@ -1,5 +1,3 @@
----
-
 # KOSLM
 
 **Kalman-Optimal Selective Long-Term Memory**
@@ -121,7 +119,5 @@ model.train(data, epochs=50)
 # Predict
 predictions = model.predict(data)
 ```
-
----
 
 
